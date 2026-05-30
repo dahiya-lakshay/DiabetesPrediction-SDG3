@@ -11,7 +11,7 @@ The challenge is to predict whether a person is diabetic or not using a dataset 
 I chose this project because diabetes is a growing concern globally, and machine learning has immense potential in transforming healthcare. By predicting diabetes accurately, we can provide better preventative care and improve quality of life for patients.
 
 ---
-
+kj
 ## 🚀 How to Run This Project
 
 1. **Clone the Repository:**
